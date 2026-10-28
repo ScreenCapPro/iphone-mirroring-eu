@@ -6,9 +6,8 @@ No jailbreak. No VPN or region change. Any Apple Account.
 
 [**Download free**](https://phonemirror.app/#download) · [Pricing](https://phonemirror.app/pricing) · [Website](https://phonemirror.app) · [Troubleshooting](https://phonemirror.app/troubleshooting) · [Release notes](https://phonemirror.app/release-notes)
 
-<!-- Add a screenshot or GIF here, e.g.:
-![Phone Mirror mirroring an iPhone on a Mac](docs/hero.png)
--->
+![USB mirroring](readme-gifs/demo-usb.gif)
+![AirPlay mirroring](readme-gifs/demo-airplay.gif)
 
 ---
 
